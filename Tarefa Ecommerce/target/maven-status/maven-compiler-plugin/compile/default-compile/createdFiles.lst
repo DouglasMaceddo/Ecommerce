@@ -1,0 +1,9 @@
+br\senai\fatesg\ecommerce\ecommerceFrayan\model\Contato.class
+br\senai\fatesg\ecommerce\ecommerceFrayan\model\Email.class
+br\senai\fatesg\ecommerce\ecommerceFrayan\model\PessoaFisica.class
+br\senai\fatesg\ecommerce\ecommerceFrayan\model\Endereco.class
+br\senai\fatesg\ecommerce\ecommerceFrayan\model\PessoaJuridica.class
+br\senai\fatesg\ecommerce\ecommerceFrayan\model\Telefone.class
+br\senai\fatesg\ecommerce\ecommerceFrayan\model\BaseModel.class
+br\senai\fatesg\ecommerce\ecommerceFrayan\model\Pessoa.class
+br\senai\fatesg\ecommerce\ecommerceFrayan\EcommerceFrayanApplication.class
